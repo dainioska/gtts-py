@@ -1,4 +1,4 @@
-#gtts testas 2020-11-26 vscode done
+#VSC_gtts testas 2020-11-26 vscode done
 
 from gtts import gTTS
 from playsound import playsound
